@@ -4,7 +4,7 @@ This document highlights some software development and cultural fundamentals tha
 
 Table of Content
 *  [Culture](./Culture.md)
-*  [Problem Solving](./Problem Solving.md)
-*  [Code Repository](./Code Repository.md)
-*  [Common Programming Mistakes](./Common Programming Mistakes.md)
-*  [Useful Reads](./Useful Reads.md)
+*  [Problem Solving](./Problem%20Solving.md)
+*  [Code Repository](./Code%20Repository.md)
+*  [Common Programming Mistakes](./Common%20Programming%20Mistakes.md)
+*  [Useful Reads](./Useful%20Reads.md)
