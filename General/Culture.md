@@ -17,6 +17,7 @@ In its simplest form, freedom means that no one is going to impose
 - What process you follow to get things done
 - How you spend your slack time
 - How you choose to communicate with your peers
+
 And the list goes on. But freedom at eMumba comes with clear responsibilities.
 
 ## Responsibility
