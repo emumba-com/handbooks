@@ -1,6 +1,6 @@
 <center> <h1>React Native Project Guidelines</h1> </center>
 
-## Version Control:
+## Version Control
 ---
 
 **Branches:**
@@ -25,7 +25,7 @@ PR will be reviewed by peers. Peers will review, comment and request changes in 
 
 <br>
 
-## Commit Guidelines:
+## Commit Guidelines
 
 ---
 
@@ -42,7 +42,7 @@ The general rules to be followed in writing a commit message are as follows:
 
 <br>
 
-## Typings:
+## Typings
 
 ---
 
@@ -58,14 +58,14 @@ Strict typings will be enforced on the following:
 
 <br>
 
-## React Guide:
+## React Guide
 
 ---
-Project will follow the react-hooks. React-hooks lets you use React features without using class syntax.
+Project will follow the react-hooks. React-hooks let you use React features without using class syntax.
 
 <br>
 
-## Testing:
+## Testing
 
 ---
 **Jest**
@@ -73,7 +73,7 @@ Use jest javascript testing library for writing test cases for react native appl
 
 <br>
 
-## Documentation:
+## Documentation
 
 ---
 `Code will be documented by using JSDocs`
@@ -88,7 +88,7 @@ JSDocs improve code readability by using annotations like
 
 <br>
 
-## Storage:
+## Storage
 
 ---
 The selection of storage libraries and tools is totally project specific. There are multiple databases available to use with React-Native or JS e.g
@@ -99,7 +99,7 @@ The selection of storage libraries and tools is totally project specific. There 
 
 <br>
 
-## Debugging:
+## Debugging
 
 ---
 
@@ -114,7 +114,7 @@ This is a built in option in all react-native projects uses `chrome developer to
 
 <br>
 
-## Project Structure:
+## Project Structure
 
 ---
 Following is the suggested code structure based on hands on experiences and opinions
@@ -133,7 +133,7 @@ App
 
 <br>
 
-## State Management:
+## State Management
 
 ---
 
@@ -143,7 +143,7 @@ App
 - As a middleware, use Redux Saga because it makes handling of side effects in app nice and easier.
   <br>
 
-## Navigation:
+## Navigation
 
 ---
 
@@ -152,7 +152,7 @@ Use [React Navigation](https://reactnavigation.org/docs/en/getting-started.html)
 
 <br>
 
-## Data Transformations:
+## Data Transformations
 
 ---
 
