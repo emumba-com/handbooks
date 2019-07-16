@@ -4,30 +4,37 @@ Everyone takes notes and sometimes people want to share it with other people, es
 
 ## Screens Flow
 ### The Landing Page
-- As you open the app, you see landing screen with a list of gists in it.
-- List will contain paginated `public gists` from github.
-- Page will contain a header with `Login` menu for login with github.
+- As you open the app, you see landing screen with a list of Notebooks in it.
+- List will contain paginated `public Notebooks` from github.
+- Page will contain a header with
+  * `Login` menu for login with github
+  * `Search` for searching a Note using ID
 
 ### Login Page
 - Once you click `login` menu, it will allow the user to login using github.
   * Maintain user session
 - Once logged in, header will contain `profile` menu with picture of user.
 
-### Gist Page
-- Once you click any gist from landing page, it will redirect to gist page
-- For a Public Gist page will
-  * Contain the information of the gist with owner's informations
+### Notebook Page
+- Once you click any Notebook from landing page, it will redirect to Notebook page
+- For a Public Notebook page will
+  * Contain the information of the Notebook with owner's informations
   * Allow user to give `star`
-  * Allow user to `fork` that gist
-- For User's Gists user will be able to
-  * `Edit` gist
-  * `Remove` gist
+  * Allow user to `fork` that Notebook
+- For User's Notebook user will be able to
+  * `Edit` Notebook
+  * `Remove` Notebook
 
 ### Profile Menu
 - From profile menu will have
-  * `List` Submenu for `user's gists` Page
-  * `Create` Submenu for creating a Gist
+  * `List` Submenu for `user's Notebook` Page
+  * `Create` Submenu for creating a Notebook
   * `Logout` Submenu for Singing out of Github
+
+### Search Menu
+- Search Menu will allow
+  * Searching a Notebook using ID
+  * Show Results of Query using Notebook Page
 
 ## Tech Stack
 - React
