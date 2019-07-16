@@ -2,6 +2,7 @@
 # React Native Project Guidelines
 
 Table of Content
+*  [Getting Started](#getting-started)
 *  [Version Control](#version-control)
 *  [Commits](#commits)
 *  [Static Types](#static-types)
@@ -13,6 +14,23 @@ Table of Content
 *  [Project Structure](#project-structure)
 *  [Navigation](#navigation)
 *  [Data Transformations](#data-transformations)
+
+## Getting Started
+Bootstrap the react native project by installing [ignite-cli](https://github.com/infinitered/ignite) globally in your system.
+
+__Ignite Cli is for__
+- React Native `boilerplates`
+- React Native `plugins`
+- React Native `generators`
+
+Use the following commands to install **ignite** globally and init a new project using ignite cli.
+```
+$ yarn global add ignite-cli
+$ ignite new MyNewAppName
+```
+
+Check out more boilerplates provided by ignite [here](https://github.com/infinitered/ignite/blob/master/BOILERPLATES.md)
+
 
 ## Version Control
 
