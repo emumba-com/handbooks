@@ -15,6 +15,7 @@ It&#39;s a single page application which has the following use-cases/scenarios:
 #### Show rules
 
 is a button which shows the rules description.
+
 ![Show Rules Image](./images/show-rules.png 'Show Rules')
 
 #### Hide rules
@@ -22,15 +23,19 @@ is a button which shows the rules description.
 on click: back to 'Show rules'
 
 There are total six colors on the right side of the app as you can see (by default, the 1st one is selected). Clicking on any color makes it selected. Now, you have to fill each row by coloring all circles in it, by color of your choice (but remember, you have to win the game so do it intelligently :stuck_out_tongue_winking_eye: ). When all four circles in a row are filled, app shows a tick to confirm the made choices as shown below:
+
 ![Tick Scenario Image](./images/tick-scenario.png 'Tick Scenario')
 
 By clicking on this tick, app will show the results according to mentioned rules.
+
 ![All three possible scenarios image](./images/mock-for-black-white-cross.png 'All three possible scenarios (Black, White & Cross)')
 
 In case of winning, app will show the following prompt:
+
 ![Winning Scenario Image](./images/winning-scenario.png 'Winning Scenario')
 
 And in case of losing, the prompt will be:
+
 ![Losing Scenario Image](./images/losing-scenario.png 'Losing Scenario')
 
 ##### PLAY AGAIN
