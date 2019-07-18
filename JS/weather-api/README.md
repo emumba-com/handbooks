@@ -103,12 +103,12 @@
 
 ### Screenshots
 
-![Screenshot](/images/Screenshot_1.png)
+![Screenshot](images/Screenshot_1.png)
 
-![Screenshot](/images/Screenshot_2.png)
+![Screenshot](images/Screenshot_2.png)
 
-![Screenshot](/images/Screenshot_3.png)
+![Screenshot](images/Screenshot_3.png)
 
-![Screenshot](/images/Screenshot_4.png)
+![Screenshot](images/Screenshot_4.png)
 
-![Screenshot](/images/Screenshot_5.png)
+![Screenshot](images/Screenshot_5.png)
