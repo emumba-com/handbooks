@@ -37,10 +37,9 @@ And in case of `losing`, the prompt will be:<br/>
 
 ### Tech Stack
 
-- React
-- Redux
-- BabelJS/ES6
-- CSS/SASS/LESS
+- HTML5
+- CSS3
+- JavaScript/ES6
 
 You can choose other tools on per your requirement/need.
 
@@ -50,7 +49,7 @@ The result of this assignment should be a project source code, uploaded at GitHu
 
 ### Timeline
 
-You&#39;ve 3 working days to finish the assignment, starting from the date it was shared with you.
+You&#39;ve 2 working days to finish the assignment, starting from the date it was shared with you.
 
 ### Questions
 
