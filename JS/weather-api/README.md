@@ -103,12 +103,12 @@
 
 ### Screenshots
 
-![Screenshot](/weather/images/Screenshot_1.png)
+![Screenshot](/images/Screenshot_1.png)
 
-![Screenshot](/weather/images/Screenshot_2.png)
+![Screenshot](/images/Screenshot_2.png)
 
-![Screenshot](/weather/images/Screenshot_3.png)
+![Screenshot](/images/Screenshot_3.png)
 
-![Screenshot](/weather/images/Screenshot_4.png)
+![Screenshot](/images/Screenshot_4.png)
 
-![Screenshot](/weather/images/Screenshot_5.png)
+![Screenshot](/images/Screenshot_5.png)
