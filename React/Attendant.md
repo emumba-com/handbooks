@@ -24,9 +24,9 @@ A simple management system for mantaining employees' attendance and working hour
 - Login form with fields for inputting employee ID and PIN code
 - On successful login, the admin will be routed to the dashboard:
   - contains 2 widgets for insights and a floating button for accessing settings
-  - widgets' description:
-    1. **Today's Availability**: a 3-tabbed view containing list of available, unavailable and on-leave employees; contains a global search
-    2. **Overall Stats**: a searchable, sortable list of all employees containing their total working hours and average working hours, consolidated over a period of 1, 3, 6 or 12 months; user should be able to sort list based on either name or total working hours. User should be able to select time period using a button group or dropdown at the top of the widget.
+  - Widgets' description:
+    1. Today's Availability: a 3-tabbed view containing list of available, unavailable and on-leave employees; contains a global search
+    2. Overall Stats: a searchable, sortable list of all employees containing their total working hours and average working hours, consolidated over a period of 1, 3, 6 or 12 months; user should be able to sort list based on either name or total working hours. User should be able to select time period using a button group or dropdown at the top of the widget.
   - Settings view should contain the following stuff:
     - a searchable list of all employees; this list enables user to edit, delete or add an employee's info
     - an inline form in the list for adding an employee's info with the following fields: first and last name, email, department and role
