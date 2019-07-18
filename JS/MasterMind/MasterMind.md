@@ -1,6 +1,6 @@
 # **M**A**S**T**E**R _MIND_
 
-In this era of apps, strategic games have become part of our daily routine. Either we are in office or in our home, either we are free or busy in our usual tasks; we tend to play these games in order to relax the mind in a most productive way. This assignment also serves the same purpose, so you are going to make a strategy game called **Master Mind** in this phase.
+In this era of apps, strategic games have become part of our daily routine. Either we are in office or in our home, either we are free or busy in our usual tasks; we tend to play these games in order to relax the mind in a most productive way. This assignment also serves the same purpose, so you are going to make a strategy game called **Master Mind** ([Play Game](http://zofiakorcz.pl/mastermind/)) in this phase.
 
 ### Rules
 
@@ -8,8 +8,6 @@ In this era of apps, strategic games have become part of our daily routine. Eith
 - After submitting a row, a small **black** peg is placed for each code peg from the guess which is correct in both color and position.
 - A **white** peg indicates the existence of a correct color code peg placed in the wrong position.
 - And a **cross** represents the wrong color code.
-
-More info on [Wikipedia](<https://en.wikipedia.org/wiki/Mastermind_(board_game)>).
 
 ### Screens/Pages
 
