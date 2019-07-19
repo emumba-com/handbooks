@@ -7,7 +7,7 @@ The purpose of assignment is to test trainee skills that he/she covered through 
 - Easy
   - [Stop Watch]()
 - Medium
-  - [Master Mind Game](./Assignments/MasterMind/README.md)
+  - [Master Mind Game](./MasterMind/README.md)
 - Hard
-  - [Git Notes Application](./Assignments/GitNotes/README.md)
-  - [Attendant](./Assignments/Attendant/README.md)
+  - [Git Notes Application](./GitNotes/README.md)
+  - [Attendant](./Attendant/README.md)
