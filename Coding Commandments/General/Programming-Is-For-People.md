@@ -1,0 +1,5 @@
+Programming is social activity: you write code primarily not for computers, but for yourself, and for your team mates, so they can understand it quickly, and contribute solutions to the project. If coding was meant primarily for computers, you'd have been writing code in Assembly language.
+
+This implies that every piece of code you're writing, you have to keep in mind your primary audience. Code needs to be written just like you'd write an essay or article: it needs to be easily understandable by its audience. It needs to convey thoughts and ideas loud and clear.
+
+Whenever you're writing a piece of code, be it a function, a class, a module, or a library, you're creating a little product on its own, that's going to be used by someone else. Keeping your consumer in mind, having empathy for them, and making an effort to enhance their user experience with your product can significantly improve quality of your code.

@@ -16,5 +16,6 @@ As name suggest that here we have multiple handbooks for different stacks but so
   - [Code Repository](./General/Code%20Repository.md)
   - [Common Programming Mistakes](./General/Common%20Programming%20Mistakes.md)
   - [Useful Reads](./General/Useful%20Reads.md)
+- [Coding Commandments](./Coding%20Commandments/README.md)
 - [Frontend](./Frontend/README.md)
   - [Assignments](./Frontend/Assignments/README.md)
