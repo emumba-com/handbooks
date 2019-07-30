@@ -1,6 +1,6 @@
 # Handbooks
 
-Welcome to eMumba training handbook, so the purpose of this handbook is to groom new comers in eMumba family.
+Welcome to eMumba training handbook, so the purpose of this handbook is to groom new comers in Emumba family.
 
 ## Motivations
 

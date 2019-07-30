@@ -5,9 +5,10 @@ The purpose of assignment is to test trainee skills that he/she covered through 
 ## Table of Contents
 
 - Easy
-  - [Stop Watch]()
+  - [Stop Watch](./stopwatch/README.md)
 - Medium
   - [Master Mind Game](./MasterMind/README.md)
+  - [Weather API](./weather-api/README.md)
 - Hard
   - [Git Notes Application](./GitNotes/README.md)
   - [Attendant](./Attendant/README.md)
