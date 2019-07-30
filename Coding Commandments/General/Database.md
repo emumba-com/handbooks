@@ -1,0 +1,5 @@
+- Define primary and secondary indexes on tables based on the access patterns.
+- Use tools (e.g. `Knex`) to automate DB migrations instead of manual process.
+- Get the DB design reviewed.
+- Never store plain passwords, store hashes instead. 
+- Be prepared to answer 'Why you chose X database'?
