@@ -12,6 +12,10 @@ Everyone takes notes and sometimes people want to share it with other people, es
   - `Login` menu for login with github
   - `Search` for searching a Note using ID
 
+![Grid View](https://user-images.githubusercontent.com/15946354/62457522-7b1c3600-b794-11e9-9fc1-82e1c5b68828.png)
+
+![List view](https://user-images.githubusercontent.com/15946354/62457567-9129f680-b794-11e9-9b2e-24d9c6216be6.png)
+
 ### Login Page
 
 - Once you click `login` menu, it will allow the user to login using github.
@@ -29,12 +33,19 @@ Everyone takes notes and sometimes people want to share it with other people, es
   - `Edit` Notebook
   - `Remove` Notebook
 
-### Profile Menu
+![Notebook](https://user-images.githubusercontent.com/15946354/62457649-b28ae280-b794-11e9-92cd-3d368a28568a.png)
+
+![Notebook – 2](https://user-images.githubusercontent.com/15946354/62457674-be76a480-b794-11e9-973e-e90c51e291df.png)
+
+
+### Profile Menu/Page
 
 - From profile menu will have
-  - `List` Submenu for `user's Notebook` Page
   - `Create` Submenu for creating a Notebook
   - `Logout` Submenu for Singing out of Github
+  - `Profile` Submenu for User Profile & `user's Notebooks`
+
+![Notebook – 3](https://user-images.githubusercontent.com/15946354/62457769-e36b1780-b794-11e9-8506-4d4aa9a0c681.png)
 
 ### Search Menu
 
