@@ -1,16 +1,27 @@
 # GitNotes!
 
-Everyone takes notes and sometimes people want to share it with other people, especially in open source community which is why gists are so popular. In this assignment you are going to provide a better solution for keeping notes and sharing them.
+Why Gists are so popular? In open source community you want to create content & share it with people. With Gists you can create public content, code fragment, configuration files & files. You can share it with people, search it on Github, save it to your profile & much more. In this assignment you are going to provide a better solution for Managing Gists
 
 ## Screens Flow
 
 ### The Landing Page
 
-- As you open the app, you see landing screen with a list of Notebooks in it.
-- List will contain paginated `public Notebooks` from github.
-- Page will contain a header with
+- As you open the app, you see landing screen with a list of Gists in it.
+- List will contain paginated `public gists` from github.
+- Page will have two layouts to view the gists
+  - List Layout
+  ![List view](https://user-images.githubusercontent.com/15946354/62457567-9129f680-b794-11e9-9b2e-24d9c6216be6.png)
+  - Grid Layout
+  ![Grid View](https://user-images.githubusercontent.com/15946354/62457522-7b1c3600-b794-11e9-9fc1-82e1c5b68828.png)
+- Use the toggle to Switch Between the Layouts
+- Page will also contain a header with
   - `Login` menu for login with github
-  - `Search` for searching a Note using ID
+  - `Search` for searching a Gist using ID
+  ![62457649-b28ae280-b794-11e9-92cd-3d368a28568a](https://user-images.githubusercontent.com/15946354/62517510-f76c5300-b840-11e9-9c92-a9ac23e2ec75.png)
+
+
+
+
 
 ### Login Page
 
@@ -18,29 +29,39 @@ Everyone takes notes and sometimes people want to share it with other people, es
   - Maintain user session
 - Once logged in, header will contain `profile` menu with picture of user.
 
-### Notebook Page
+### Gist Page
 
-- Once you click any Notebook from landing page, it will redirect to Notebook page
-- For a Public Notebook page will
-  - Contain the information of the Notebook with owner's informations
+- Once you click any Gist from landing page, it will redirect to Gist page
+- For a Public Gist page will
+  - Contain the information of the Gist with owner's informations
   - Allow user to give `star`
-  - Allow user to `fork` that Notebook
-- For User's Notebook user will be able to
-  - `Edit` Notebook
-  - `Remove` Notebook
+  - Allow user to `fork` that Gist
 
-### Profile Menu
+  ![Notebook](https://user-images.githubusercontent.com/15946354/62457649-b28ae280-b794-11e9-92cd-3d368a28568a.png)
 
-- From profile menu will have
-  - `List` Submenu for `user's Notebook` Page
-  - `Create` Submenu for creating a Notebook
+- For User's Gist user will be able to
+  - `Edit` Gist
+  - `Remove` Gist
+
+  ![Notebook – 2](https://user-images.githubusercontent.com/15946354/62457674-be76a480-b794-11e9-973e-e90c51e291df.png)
+
+
+
+
+
+### Profile Menu/Page
+
+- Profile menu will have
+  - `Create` Submenu for creating a Gist
   - `Logout` Submenu for Singing out of Github
+  - `User Profile` Submenu for User Profile & `user's Gists`
 
-### Search Menu
+![Notebook – 3](https://user-images.githubusercontent.com/15946354/62457769-e36b1780-b794-11e9-8506-4d4aa9a0c681.png)
 
-- Search Menu will allow
-  - Searching a Notebook using ID
-  - Show Results of Query using Notebook Page
+### Search
+- Search Bar will allow
+  - Searching a Gist using ID
+  - Show Results of Query using Gist Page
 
 ## Tech Stack
 
