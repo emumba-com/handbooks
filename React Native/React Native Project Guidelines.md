@@ -6,6 +6,7 @@ Table of Content
 *  [Version Control](#version-control)
 *  [Commits](#commits)
 *  [Static Types](#static-types)
+    * [Typescript Gotcha!](#typescript-gotcha)
 *  [React](#react)
 *  [Testing](#testing)
 *  [Documentation](#documentation)
@@ -73,6 +74,15 @@ Strict typings will be enforced on the following:
 - Response data from API calls
 - Redux state
 - Action Creators
+
+### Typescript Gotcha
+
+If you decide to make your project in `typescript` then don't **(never)** convert **entry file** i.e. `index.js` at the root of your project to `index.ts`. In **DEBUG** mode your app will run fine with `index.ts` but when you build your app for `ios` in **RELEASE (Production)** mode to upload it on `App Store` or `Test Flight`, build will fail. That's because ios `xcode` looks for `index.js` to make a `mainjs.bundle` and it won't find any.
+
+Now, you may change the script that runs when the xcode builds your app but it requires too much configuration and it doesn't work well with static assets of your app.
+https://stackoverflow.com/questions/35354998/react-native-ios-app-not-showing-static-assets-images-after-deploying
+<br>
+**Never change your `index.js` to `index.ts`, rest of the files are fair game for conversion but not `index.js`**
 
 ## React
 Project will follow the react-hooks. React-hooks let you use React features without using class syntax.
