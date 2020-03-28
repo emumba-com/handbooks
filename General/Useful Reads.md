@@ -12,5 +12,8 @@ Table of Content
 ## The Twelve Factor App
 [The Twelve Factor App](https://12factor.net) is a set of best practises around building clean, extensible, scalable, and managable services and applications.
 
+## Web Security
+[Course on Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) by Stanford is a great resource to learn about how web works, various kind of attacks, and how to write secure code.
+
 ## Why Do We Use Hexadecimal
 [Why Do We Use Hexadecimal](https://medium.com/@savas/why-do-we-use-hexadecimal-d6d80b56f026): We see hex values being used at so many places, but why do we really use Hex (or base 16), why not base 8, 10, 32, 64?
