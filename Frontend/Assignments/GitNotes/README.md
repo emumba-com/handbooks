@@ -63,6 +63,10 @@ Why Gists are so popular? In open source community you want to create content & 
 - Search Bar will allow
   - Searching a Gist using ID
   - Show Results of Query using Gist Page
+   - Search Results in List View
+   ![Notebook – 5](images/search_listview.PNG)
+   - Search Results in Grid View
+   ![Notebook – 6](images/search_gridview.PNG)
 
 ## Tech Stack
 
