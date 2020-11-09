@@ -53,6 +53,7 @@ Why Gists are so popular? In open source community you want to create content & 
 
 - Profile menu will have
   - `Create` Submenu for creating a Gist
+  ![Notebook - 4] (images/create_gist.PNG)
   - `Logout` Submenu for Singing out of Github
   - `User Profile` Submenu for User Profile & `user's Gists`
 
