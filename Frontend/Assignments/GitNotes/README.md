@@ -54,7 +54,7 @@ Why Gists are so popular? In open source community you want to create content & 
 
 - Profile menu will have
   - `Create` Submenu for creating a Gist
-  - A gist can have multiple files. The `Add File` button will add one or multiple file to the new gist.
+  - A gist can have multiple files. The `Add File` button will add a single file to your gist when clicked on.
   - One all the files are added, clicking on `Create Gist` will create your new gist with the added files
 ![Notebook – 4](images/create_gist.PNG)
   - `Logout` Submenu for Singing out of Github
