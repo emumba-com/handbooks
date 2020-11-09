@@ -28,6 +28,7 @@ Why Gists are so popular? In open source community you want to create content & 
 - Once you click `login` menu, it will allow the user to login using github.
   - Maintain user session
 - Once logged in, header will contain `profile` menu with picture of user.
+![Notebook – 7](images/header_loggedin.PNG)
 
 ### Gist Page
 
