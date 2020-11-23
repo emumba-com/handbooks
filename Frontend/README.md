@@ -304,5 +304,3 @@ Remember, you created a book application once and you had to store the data in l
 You know the drill!
 
 ### Evaluation, Day 3, 4, 5
-
-#### Assignment Link Placeholder
