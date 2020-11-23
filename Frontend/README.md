@@ -113,7 +113,9 @@ You are not supposed to remember every tag or property. And often you will find 
 
 ### Day 3 Responsive Design Task Due
 
-#### Task Link Placeholder
+#### Clipmine Page
+
+###### (Assignment folder will be shared by your mentor)
 
 1. See the image named as Task to see resulting snapshot of your task
 2. Your website needs to be responsive in design. Make sure you test it on mobile, iPad and Desktop.
@@ -136,7 +138,7 @@ Topics to cover from &quot;**Javascript Algorithms and Data structures Certifica
 
 #### Task Due
 
-#### Task Link Placeholder
+#### Ask your mentor to assign you one of the [assignments](./Assignments/README.md)
 
 ##### Code Review:
 
@@ -204,7 +206,7 @@ Go through this awesome [video](https://www.youtube.com/watch?v=Ke90Tje7VS0) to 
 
 #### Task Due
 
-#### Task Link Placeholder
+#### Ask your mentor to assign you one of the [assignments](./Assignments/README.md)
 
 **Done with the Task? Let's learn how to think better in component based frameworks such as React and verify if you did it the right way?**
 Below are some highly recommended documents from React JS documentation which will help you in understanding and working in react better:
